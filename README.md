@@ -41,4 +41,3 @@ Estamos desenvolvendo uma **Inteligência Artificial (IA) avançada para reconhe
 
 ---
 
-### **Quer seguir para a interface gráfica ou aprimorar ainda mais a precisão? 😃**
